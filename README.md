@@ -67,9 +67,7 @@ Pong is a two-player game where each player controls a paddle and tries to hit t
 
 Contributions are welcome! If you find any bugs or have ideas for new features, feel free to open an issue or submit a pull request. Please ensure your contributions adhere to the project's coding standards and guidelines.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
@@ -78,7 +76,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Screenshot
 
-![Pong Game Screenshot](pong.png)
+![Pong Game Screenshot](pong.jpg)
 
 ---
 
